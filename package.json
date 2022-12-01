@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Jain-Daksh/nodejs/issues"
   },
+  "devDependencies": {
+    "jshint": "^2.13.4"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "joi": "^17.6.0",
+    "pg": "^8.7.3"
+  },
   "homepage": "https://github.com/Jain-Daksh/nodejs#readme"
 }
